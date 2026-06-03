@@ -1,0 +1,111 @@
+.PAGINA {
+  background-color: #1a1a1a;
+  overflow: hidden;
+  width: 100%;
+  min-width: 2560px;
+  min-height: 7121px;
+  position: relative;
+}
+
+.PAGINA .element {
+  position: absolute;
+  top: 6089px;
+  left: 0;
+  width: 2560px;
+  height: 1032px;
+  mix-blend-mode: multiply;
+  aspect-ratio: 2.73;
+}
+
+.PAGINA .rectangle {
+  position: absolute;
+  top: 3768px;
+  left: calc(50.00% - 1314px);
+  width: 2628px;
+  height: 2322px;
+  background-color: #d9d9d9;
+}
+
+.PAGINA .mask-group {
+  position: absolute;
+  top: 1041px;
+  left: 0;
+  width: 2560px;
+  height: 2320px;
+}
+
+.PAGINA .img {
+  position: absolute;
+  top: 3534px;
+  left: 0;
+  width: 2560px;
+  height: 2556px;
+}
+
+.PAGINA .mask-group-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1580px;
+  height: 1739px;
+}
+
+.PAGINA .mask-group-3 {
+  position: absolute;
+  top: 0;
+  left: 1162px;
+  width: 1398px;
+  height: 1480px;
+}
+
+.PAGINA .frame {
+  display: flex;
+  flex-direction: column;
+  width: 535px;
+  align-items: flex-start;
+  gap: 18.45px;
+  position: absolute;
+  top: 255px;
+  left: 640px;
+}
+
+.PAGINA .as-inscries-para-a {
+  position: relative;
+  width: 511.33px;
+  height: 170.09px;
+}
+
+.PAGINA .n-o-trabalhe-pelo {
+  position: relative;
+  width: 495.03px;
+  font-family: "Helvena-Light", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36.9px;
+  letter-spacing: -1.11px;
+  line-height: 36.9px;
+}
+
+.PAGINA .text-wrapper {
+  font-weight: 300;
+  letter-spacing: -0.41px;
+}
+
+.PAGINA .span {
+  font-family: "Helvena-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: -0.41px;
+}
+
+.PAGINA .o-mtodo-exato-criado {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 167.99px;
+}
+
+.PAGINA .MENU-SUPERIOR {
+  display: flex;
+  width: 1280px;
+  height: 97px;
+}
